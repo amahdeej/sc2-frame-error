@@ -21,5 +21,5 @@ The code is provided into separate files, one each for a specific simulation. Ev
 # Alternate Download Links
 If the dataset files can not be downloaded due to bandwidth limit of github being crossed, here are links for them from onedrive:
 
-(Scrimmage 4)[https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EQsfaBF0MjJNvBXqkPq-Lv0BlyAm8ph8O85s-vxOqVjJTA?e=EiSxIq]
-(Scrimmage 5)[https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EVnfh_V2BZBOk9SOTvKDLa4BGQ54LA9rr_r0cfFQWC_SLw?e=EJ5nWr]
+[Scrimmage 4](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EQsfaBF0MjJNvBXqkPq-Lv0BlyAm8ph8O85s-vxOqVjJTA?e=EiSxIq)
+[Scrimmage 5](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EVnfh_V2BZBOk9SOTvKDLa4BGQ54LA9rr_r0cfFQWC_SLw?e=EJ5nWr)
