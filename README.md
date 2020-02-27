@@ -14,4 +14,4 @@ Thus the total width of each element of the first tuple for a link is 20.
 
 The second tuple contains the success of transmission ('rxSuccess'). If it is 1, there is no frame error, if it is 0, ther is a frame error.
 
-The code is provided into separate files, one each for a specific simulation. Please refer to the paper for a description of the methods.
+The code is provided into separate files, one each for a specific simulation. Every file contains two training approaches - regular training and bagging. Please refer to the paper for a detailed description.
