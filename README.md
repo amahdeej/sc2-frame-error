@@ -1,5 +1,5 @@
-# ssp2020sc2
-Spectrum Challange 2 Dataset and Frame Error Prediction Code
+# Spectrum Challange 2 Dataset and Frame Error Prediction Code
+Deep Learning for Frame Error Prediction using a DARPA Spectrum Collaboration Challenge (SC2) Dataset.
 
 # Dataset
 The dataset is contained in two files - scrimmage4_link_dataset.pickle and scrimmage5_link_dataset.pickle
