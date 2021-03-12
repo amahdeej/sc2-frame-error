@@ -23,10 +23,21 @@ The dataset is approved for public release, distribution unlimited.
 
 Details about the dataset are mentioned in SC2_Dataset_Documentation.pdf
 
-Here are the links to the dataset files mentioned in the code:
+Here are the links to the dataset files mentioned in the code (one pickle file for each scrimmage):
+
+[Scrimmage 4](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EQsfaBF0MjJNvBXqkPq-Lv0BlyAm8ph8O85s-vxOqVjJTA?e=pYHIQS)
+
+[Scrimmage 5](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EVnfh_V2BZBOk9SOTvKDLa4BGQ54LA9rr_r0cfFQWC_SLw?e=Jh4yCL)
+
+Mirrors:
 
 [Scrimmage 4](https://app.box.com/s/i0c1qimr0mjuyr38celtxbsuedhlp9tr)
 
 [Scrimmage 5](https://app.box.com/s/sqyvrapww6z5ydg0rrx7tjszs32bhndx)
 
+And here is the link to the full dataset (separate sqlite files for each match)
+
+[Full Dataset](https://purdue0-my.sharepoint.com/:f:/g/personal/amahdeej_purdue_edu/EszW2WkpQWBLg9Y6cYX1FtUBpEyMS5XpUuCUxa2vFj5nXg?e=Nh0tk6)
+
+[Mirror](https://app.box.com/s/snwqgmzxljjsu129wampesj0xgn2ozpq) (Needs Access Request)
 
