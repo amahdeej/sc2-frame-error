@@ -30,5 +30,5 @@ A larger dataset containing the more information about each match is also availa
 
 Here is the link to the full dataset (separate sqlite files for each match):
 
-[Full Dataset](https://purdue0-my.sharepoint.com/:f:/g/personal/amahdeej_purdue_edu/EszW2WkpQWBLg9Y6cYX1FtUBpEyMS5XpUuCUxa2vFj5nXg?e=Nh0tk6) (136 GB) [Mirror (Needs Access Request)](https://app.box.com/s/snwqgmzxljjsu129wampesj0xgn2ozpq)
+[Full Dataset](https://purdue0-my.sharepoint.com/:f:/g/personal/amahdeej_purdue_edu/EszW2WkpQWBLg9Y6cYX1FtUBpEyMS5XpUuCUxa2vFj5nXg?e=Nh0tk6) (135.517 GB) [Mirror (Needs Access Request)](https://app.box.com/s/snwqgmzxljjsu129wampesj0xgn2ozpq)
 
