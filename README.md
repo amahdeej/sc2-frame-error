@@ -23,10 +23,10 @@ The dataset is approved for public release, distribution unlimited.
 
 Details about the dataset are mentioned in SC2_Dataset_Documentation.pdf
 
-If the dataset files can not be downloaded due to bandwidth limit of github being crossed, here are links for them from sharepoint:
+Here are the links to the dataset files mentioned in the code:
 
-[Scrimmage 4](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EQsfaBF0MjJNvBXqkPq-Lv0BlyAm8ph8O85s-vxOqVjJTA?e=EiSxIq)
+[Scrimmage 4](https://app.box.com/s/i0c1qimr0mjuyr38celtxbsuedhlp9tr)
 
-[Scrimmage 5](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EVnfh_V2BZBOk9SOTvKDLa4BGQ54LA9rr_r0cfFQWC_SLw?e=EJ5nWr)
+[Scrimmage 5](https://app.box.com/s/sqyvrapww6z5ydg0rrx7tjszs32bhndx)
 
 
