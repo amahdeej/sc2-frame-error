@@ -18,7 +18,7 @@ The first tuple is contains the paramenters -
 5. The Power Spectral Density ('psd') - 16 elements
 Thus the total width of each element of the first tuple for a link is 20.
 
-The second tuple contains the success of transmission ('rxSuccess'). If it is 1, there is no frame error, if it is 0, ther is a frame error.
+The second tuple contains the success of transmission ('rxSuccess'). If it is 1, there is no frame error, if it is 0, there is a frame error.
 
 Here are the links to the dataset files mentioned in the code (one pickle file for each scrimmage):
 
