@@ -26,7 +26,7 @@ Here are the links to the dataset files mentioned in the code (one pickle file f
 
 [Scrimmage 5](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EVnfh_V2BZBOk9SOTvKDLa4BGQ54LA9rr_r0cfFQWC_SLw?e=Jh4yCL) (979.7 MB) [Mirror](https://app.box.com/s/sqyvrapww6z5ydg0rrx7tjszs32bhndx)
 
-A larger dataset containing complete information about each match is also available. Please refer to SC2_Dataset_Documentation.pdf for more details regarding the structure of the full dataset.
+A larger dataset containing complete information about each match is also available. Please refer to SC2_Dataset_Documentation.pdf for more details regarding the structure of the full dataset. SC2_Dataset_Technical_Design_Report.pdf contains more information about the dataset acquisition process.
 
 Here is the link to the full dataset (separate sqlite files for each match):
 
