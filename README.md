@@ -32,3 +32,17 @@ Here is the link to the full dataset (separate sqlite files for each match):
 
 [Full Dataset](https://purdue0-my.sharepoint.com/:f:/g/personal/amahdeej_purdue_edu/EszW2WkpQWBLg9Y6cYX1FtUBpEyMS5XpUuCUxa2vFj5nXg?e=Nh0tk6) (135.517 GB) [Mirror (Needs Access Request)](https://app.box.com/s/snwqgmzxljjsu129wampesj0xgn2ozpq)
 
+# Edge Dataset
+
+Based on the channel allocation strategy, the dataset is divided in two files - scrimmage4_nodes_dataset.pickle and scrimmage5_nodes_dataset.pickle. In Scrimmage 4, the channel allocation decision parameters are randomized. There are a total of 25 matches in scrimmage 4 and 53 matches in scrimmage 5. Only nodes with more than 10000 transmitted frames are considered, resulting in 154 and 408 nodes for scrimmages 4 and 5, respectively. We also include the SMOTE generated synthetic training dataset we used to train the teacher network in the cloud. The SMOTE dataset is produced using only the training data (50%) from the original dataset nodes, and hence contains same no of nodes.
+
+Here are the links to the dataset files mentioned in the code at https://github.com/amahdeej/sc2-edge-learning (one pickle file for each scrimmage):
+
+[Scrimmage 4 Edge Node Dataset](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EY7bz-bskWlKpXkOQ0cTIh8BsBqaQLMqMNiUjbaIg_hkNg) (573.7 MB) [Mirror](https://app.box.com/s/rpas6y19ret8mqbow558cyoawex0bb29)
+
+[Scrimmage 5 Edge Node Dataset](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EW5CM_Q1tpdFoLmVp6L2D_kBt8BM6ME8AZOr7QKJr-IpoA) (982 MB) [Mirror](https://app.box.com/s/z1dvzfy3x51obvh75mzru0hssc26pc5x)
+
+[Scrimmage 4 Edge SMOTE Training Dataset](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EROusY6XYOtInGVCqgg66OEBCpzGMrZec70RCRKs_xsnEA) (547.7 MB) [Mirror](https://app.box.com/s/ppppg7isycr3og1m9wsotysxumcf9qvh)
+
+[Scrimmage 5 Edge SMOTE Training Dataset](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EXunZUqirGtDpNmEd5U8f5MB2Nu2-ZCGVL5W5IDhHNR4Ew) (937.4 MB) [Mirror](https://app.box.com/s/cgv5yzgqe558q2j6gj9mlfpr29xrcwsv)
+
